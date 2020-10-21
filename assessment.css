@@ -1,0 +1,19 @@
+body{
+  background-color: #04a6eb; 
+  /* a=10,b=11,c=12,d=13,e=14,f=15, 04 / a6=16*6+10 / eb=14*11+10*/
+  /* 1a=16+10=26 , a=10, 10=16 , 2a=16*2+10=42 , aa=16*10+10=42 , ff=16*15+10=255 */
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button{
+  padding: 5px 20px;
+  background-color: #337ab7;
+  border-style: none;
+}
+
+input{
+  height: 25px;
+}
